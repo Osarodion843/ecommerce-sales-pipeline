@@ -1,0 +1,10 @@
+category,region,total_sales_revenue,total_sales_revenue,quantity
+,,sum,mean,sum
+Electronics,West,170.0,170.0,2
+Electronics,South,85.0,85.0,1
+Electronics,North,50.0,50.0,2
+Home,North,50.0,50.0,4
+Home,Unknown,30.0,30.0,1
+Electronics,East,25.0,25.0,1
+Home,South,25.0,25.0,2
+Stationery,West,0.0,0.0,3

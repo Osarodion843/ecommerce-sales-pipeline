@@ -1,0 +1,16 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (VERY IMPORTANT so you don't upload your local .venv)
+.venv/
+env/
+venv/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
+
+# Optional: If you don't want to track processed output data on GitHub
+# data/processed/*.csv

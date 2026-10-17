@@ -1,0 +1,6 @@
+customer_id,name,region,signup_date
+101,Alice Smith,North,2023-01-15
+102,Bob Jones,South,2023-02-20
+103,Charlie Brown,East,2023-03-05
+104,Diana Prince,West,2023-03-12
+105,Evan Wright,,2023-04-01
